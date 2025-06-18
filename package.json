@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/k3ss-official/plandex.git"
+},
   "activationEvents": [
     "onCommand:plandex.run",
     "onCommand:plandex.runWithOutput"
